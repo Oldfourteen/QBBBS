@@ -1,15 +1,17 @@
 # QBBBS - 青滨校友圈 App
 
 
+<div align="center">
 
-
-<img title="" src="./qblogo.png" alt="QBBBS-LOGO" width="200" data-align="center">
+<img title="" src="./qblogo.png" alt="QBBBS-LOGO" width="200">
 
 [![qbbbs.fun](https://img.shields.io/badge/QBBBS-qbbbs.fun-142850?style=flat-square)](https://qbbbs.fun)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](./LICENSE)
 [![Vue](https://img.shields.io/badge/Vue-2.6.14-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![uni-app](https://img.shields.io/badge/uni--app-2.x-2B9839?style=flat-square)](https://uniapp.dcloud.net.cn/)
 [![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+</div>
 
 ---
 
