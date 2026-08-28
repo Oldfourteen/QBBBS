@@ -1,6 +1,4 @@
-<div align="center">
 # QBBBS - 青滨校友圈 App
-</div>
 
 <div align="center">
 
