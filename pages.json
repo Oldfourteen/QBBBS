@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "path": "pages/main/index",
+      "style": { "navigationBarTitleText": "QB-BBS", "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/home/index",
+      "style": { "navigationBarTitleText": "QB-BBS", "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/community/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/recommend/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/login/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/register/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/post-detail/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/publish/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/settings/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/notifications/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/about/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/forgot/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/change-avatar/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/schedule/index",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/schedule-widget/index",
+      "style": { "navigationStyle": "custom", "navigationBarTitleText": "今日课表" }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "QB-BBS",
+    "navigationBarBackgroundColor": "#142850",
+    "backgroundColor": "#f0f7ff"
+  },
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^lazy-image$": "@/components/LazyImage.vue",
+      "^rich-text-viewer$": "@/components/RichTextViewer.vue"
+    }
+  }
+}
